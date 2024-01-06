@@ -1,17 +1,1 @@
-[
-  {
-    "id": 1,
-    "title": "Laundry",
-    "text": "Saturday"
-  },
-  {
-    "id": 2,
-    "title": "Take dogs to vet",
-    "text": "Tuesday"
-  },
-  {
-    "id": 3,
-    "title": "School",
-    "text": "Create JSON Object, Read JSON object, Write text using Javascript"
-  }
-]
+[]

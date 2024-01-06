@@ -40,7 +40,7 @@ router.post("/notes", (req, res) => {
   const { title, text } = req.body;
   const notes = readData();
   const newNote = {
-    id: notes.length + 1,
+    id: Date.now(),
     title,
     text,
   };
